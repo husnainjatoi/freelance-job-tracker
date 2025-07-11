@@ -2,7 +2,8 @@
 
 A command-line application to help freelancers manage job applications, payments, deadlines, and income statistics. Built in Python with CSV-based storage and simple data visualization.
 
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
+![Status](https://img.shields.io/badge/Status-Finished-brightgreen?style=flat)
 
 ## 🔑 Main Features
 - 🗃️ Add and manage freelance jobs
@@ -57,3 +58,17 @@ pip install -r requirements.txt
 ```bash
 python freelance_tracker.py
 ```
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="screenshots/menu.png" width="600" alt="Main Menu" />
+  <br><br>
+  <img src="screenshots/add_job.png" width="600" alt="Adding a New Job" />
+  <br><br>
+  <img src="screenshots/chart.png" width="600" alt="Monthly Earnings Chart" />
+</p>
+
+
+## 📌 Notes
+This project was built to practice data handling, CLI design, and simple analytics in Python. It helps freelancers keep track of work and earnings in a practical, personal workflow.
