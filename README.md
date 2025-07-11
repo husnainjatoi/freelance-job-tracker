@@ -47,7 +47,7 @@ A command-line application to help freelancers manage job applications, payments
 ```bash
 git clone https://github.com/husnainjatoi/freelance-job-tracker
 ```
-3. Navigate to the project folder
+2. Navigate to the project folder
 ```bash
 cd freelance-job-tracker
 ```
