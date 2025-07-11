@@ -5,28 +5,30 @@ A command-line application to help freelancers manage job applications, payments
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
 ![Status](https://img.shields.io/badge/Status-Finished-brightgreen?style=flat)
 
+
+
 ## 🔑 Main Features
-- 🗃️ Add and manage freelance jobs
-- 📅 Track deadlines and payment status
-- 📈 View total and monthly earnings
-- 📊 Generate earnings charts
-- 💾 Store all data in a CSV file
+- Add and manage freelance jobs  
+- Track deadlines and payment status  
+- View total and monthly earnings  
+- Generate earnings charts  
+- Store all data in a CSV file  
 
 
 
 ## 🧩 Feature Breakdown
 
-### 📝 Job Entry
-- Add a new job with client name, project name, deadline, and payment
-- Each job is saved to a CSV file
+### Job Entry
+- Add a new job with client name, project name, deadline, and payment  
+- Each job is saved to a CSV file  
 
-### 💰 Payment Tracking
-- Mark jobs as paid or unpaid
-- Track total earnings to date
+### Payment Tracking
+- Mark jobs as paid or unpaid  
+- Track total earnings to date  
 
-### 📊 Statistics & Visualization
-- See a breakdown of monthly income
-- Generates an earnings bar chart using matplotlib
+### Statistics & Visualization
+- See a breakdown of monthly income  
+- Generates an earnings bar chart using matplotlib  
 
 
 
